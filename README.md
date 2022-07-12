@@ -1,1 +1,1 @@
-You can visit the city by this link: https://emilionila.github.io/movie-list/
+You can visit the cite by this link: https://emilionila.github.io/movie-list/
